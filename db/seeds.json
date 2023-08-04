@@ -17,7 +17,7 @@
       "age": 1,
       "gender": "Female",
       "size": "Medium",
-      "image": "bit.ly/DOGgdog",
+      "image": "https://tinyurl.com/Doggdog",
       "description": "Bella is a sweet and gentle Golden Retriever. She loves to cuddle and go for walks. She is good with kids and other pets. Bella is looking for a loving home."
     },
     {
@@ -27,7 +27,7 @@
       "age": 3,
       "gender": "Male",
       "size": "Small",
-      "image": "bit.ly/DOGpoodle",
+      "image": "https://tinyurl.com/DOGcdog",
       "description": "Charlie is a smart and playful Poodle. He loves to learn new tricks and play fetch. He is good with kids and other pets. Charlie is looking for a loving home."
     },
     {
@@ -47,7 +47,7 @@
       "age": 1,
       "gender": "Male",
       "size": "Small",
-      "image": "bit.ly/CATtaby",
+      "image": "https://tinyurl.com/CAToscat",
       "description": "Oscar is a playful and curious Tabby Cat. He loves to explore and chase toys. He is good with kids and other pets. Oscar is looking for a loving home."
     }
   ]
